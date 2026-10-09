@@ -61,7 +61,7 @@ export default function TabTwoScreen() {
         <ThemedView style={styles.sectionsWrapper}>
           <Collapsible title="File-based routing">
             <ThemedText type="small">
-              This app has two screens: <ThemedText type="code">src/app/index.tsx</ThemedText> and{' '}
+              This app has two screens: <ThemedText type="code">src/app/index.js</ThemedText> and{' '}
               <ThemedText type="code">src/app/explore.tsx</ThemedText>
             </ThemedText>
             <ThemedText type="small">
